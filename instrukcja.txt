@@ -1,0 +1,11 @@
+Do odpalenia aplikacji potrzebujemy mongo na porcie 27017 oraz keycloaka na 8080.
+Jeśli chodzi o keycloaka to wrzucam plik realm-export.json z konfiguracją mojego realma  (jeżeli użytkownicy nie chcą się załadować to było ich tylko 3 - każdy z jedną z 3 ról)
+Co do bazy mongo to również wrzucam plik data.json który z poziomu konsoli admina (na samym dole strony) możemy wrzucić i będziemy mieć wszystkie posty od razu
+
+Stworzyłem prostą stronę - forum wędkarskie. Jest to projekt react i express z bazą mongo i IdP keycloak.
+Zarówno FE jak i API są zabezpieczone keycloakiem, nie da się uzyskać odpowiedzi z endpointów bez tokena, ani nie da się przeglądać strony bez zalogowania.
+Jest oddzielny panel admina do usuwania postów i komentarzy (po zalogowaniu jako admin trzeba wejść w http://localhost:3000/admin).
+W sumie są u mnie 3 role użytkowników - admin, superszczupak i leszcz z czego tylko ten pierwszy realnie daje coś dodatkowego.
+Api w odpowiednim miejscu zwraca dodatkowe wartości dla użytkownika z rolą admin.
+Zapezpieczenie API jest za pomocą tokenów przesyłanych z fronta i weryfikowanych przez keycloak.
+Użyłem również PKCE na froncie.

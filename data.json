@@ -1,0 +1,103 @@
+{    
+    "posts": [
+        {
+            "username": "kaja",
+            "title": "Najlepsze miejsce do wędkowania w okolicy?",
+            "content": "Hej wędkarze! Chciałabym poznać Wasze opinie na temat najlepszego miejsca do wędkowania w naszej okolicy. Gdzie najlepiej można złowić różnorodne gatunki ryb? Czy macie jakieś ulubione spoty, którymi możecie się podzielić? Czekam na Wasze rekomendacje i dziękuję z góry!",
+            "ipAddress": "1.111.111.111",
+            "imageURL": "https://i.wpimg.pl/340x255/i.nocimg.pl/mapy_statyczne/2019/s/269/206592-jeziora-klasztorne-w-kartuzach-mapa.png",
+            "timestamp": "2023-06-19T16:48:47.556Z",
+            "roles": [
+                "superszczupak"
+            ],
+            "comments": [
+                {
+                    "username": "andrzej",
+                    "content": "W naszej okolicy polecam wybrać się nad rzekę, która przepływa przez las. Tam możesz spotkać różnorodne gatunki ryb, takie jak pstrągi czy lipienie. Rzeka ma kilka spokojnych zakoli, gdzie ryby często odpoczywają. Tam też warto poszukać! Powodzenia!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "",
+                    "timestamp": "2023-06-19T16:51:35.670Z",
+                    "roles": [
+                        "admin"
+                    ]
+                },
+                {
+                    "username": "kuba",
+                    "content": "Moim ulubionym miejscem do wędkowania jest staw znajdujący się na obrzeżach miasta. Jest dobrze zaopatrzony w różne gatunki ryb, a dodatkowo jest łatwo dostępny. Można tam spędzić cały dzień i z pewnością coś złapać. Spróbuj szczęścia!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "https://lh3.googleusercontent.com/p/AF1QipNf3iLqFxhdlHco0ieCw-C2g3qfRsiTHP619KW5=s680-w680-h510",
+                    "timestamp": "2023-06-19T16:54:37.261Z",
+                    "roles": [
+                        "leszcz"
+                    ]
+                }
+            ]
+        },
+        {
+            "username": "kuba",
+            "title": "Porada dotycząca wyboru przynęty na sumy",
+            "content": "Witajcie! Mam nadzieję, że możecie mi pomóc. Planuję połów sumów w nadchodzący weekend i nie jestem pewien, jaką przynętę wybrać. Czy ktoś mógłby polecić mi jakieś sprawdzone przynęty na te drapieżniki? Chętnie wysłucham Waszych sugestii i dziękuję z góry za pomoc!",
+            "ipAddress": "1.111.111.111",
+            "imageURL": "https://rybyswiata.pl/wp-content/uploads/2018/08/sum-ryba.jpg",
+            "timestamp": "2023-06-19T16:55:58.770Z",
+            "roles": [
+                "leszcz"
+            ],
+            "comments": [
+                {
+                    "username": "andrzej",
+                    "content": "Jeśli chodzi o sumy, to popularnym wyborem jest duży gumowy twister w kolorze czarnym lub ciemnobrązowym. Możesz go zestawić z ciężkim główką i pozwolić na jego spokojne opadanie na dno. Sumy często atakują w momencie, gdy przynęta leży nieruchomo. Powodzenia!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "data:image/jpeg;base64,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",
+                    "timestamp": "2023-06-19T17:04:54.854Z",
+                    "roles": [
+                        "admin"
+                    ]
+                },
+                {
+                    "username": "kaja",
+                    "content": "Moim ulubionym wyborem na sumy jest przynęta z serii woblerów w kształcie ryby. Wybierz takie, które mają długość około 20 cm i są w kolorach przypominających miejscowe gatunki ryb. Sumy często reagują na ruch i agresywnie atakują woblery. Trzymaj mocno wędkę!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "",
+                    "timestamp": "2023-06-19T17:07:40.348Z",
+                    "roles": [
+                        "superszczupak"
+                    ]
+                }
+            ]
+        },
+        {
+            "username": "andrzej",
+            "title": "Jakie wędki polecacie do połowu na jeziorze?",
+            "content": "Cześć wszystkim! Planuję wybrać się na weekendowy wypad na jezioro i chciałbym zapytać, jakie wędki polecacie do połowu tamtejszych gatunków ryb? Czy powinienem zwrócić uwagę na długość, typ akcji czy może coś innego? Chętnie wysłucham Waszych rekomendacji i doświadczeń. Z góry dziękuję za pomoc!",
+            "ipAddress": "1.111.111.111",
+            "imageURL": "https://wedkarskiswiat.pl/wp-content/uploads/2020/12/wedka-scaled.jpeg",
+            "timestamp": "2023-06-19T17:09:41.383Z",
+            "roles": [
+                "admin"
+            ],
+            "comments": [
+                {
+                    "username": "kuba",
+                    "content": "Ja preferuję wędki teleskopowe, które są wygodne w transporcie i łatwe w użyciu. Wybierz taką o długości około 3 metrów, z mocnym blankiem, który pozwoli na wyholowanie większych ryb. Powodzenia na jeziorze!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "",
+                    "timestamp": "2023-06-19T17:11:07.704Z",
+                    "roles": [
+                        "leszcz"
+                    ]
+                },
+                {
+                    "username": "kaja",
+                    "content": "Osobiście polecam wędki o długości 2,7 metra i średniej akcji. W przypadku połowu na jeziorze warto mieć wędki, które umożliwią dalekie rzuty, a jednocześnie są wystarczająco wrażliwe, aby wyczucie brań było dokładne. Powodzenia!",
+                    "ipAddress": "1.111.111.111",
+                    "imageURL": "",
+                    "timestamp": "2023-06-19T17:12:33.739Z",
+                    "roles": [
+                        "superszczupak"
+                    ]
+                }
+            ]
+        }
+    ]
+}
